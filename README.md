@@ -16,4 +16,4 @@ Apesar de se utilizar a AI como copiloto, as obras originais foram consultadas v
 
 ## 🚀 Resultados
 Um texto simples, direto, focado na compreensão dos padrões de projeto mais utilizados.
-O material pode ser consultado [aqui]().
+O material pode ser consultado [aqui](DesignPatterns.pdf).
